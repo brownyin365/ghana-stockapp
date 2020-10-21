@@ -10,7 +10,7 @@
               <div
                 class="w-1/2 md:w-auto text-center text-white text-2xl font-medium"
               >
-                Ghana Stock
+                Ghana Stock Exchange
               </div>
             </div>
           </div>
