@@ -49,7 +49,7 @@
                   <div class="text-grey-darker mb-2">
                     <span class="text-3xl align-top">{{ infos.name }}</span>
                     <span class="text-5xl">{{ infos.volume }}</span>
-                    <span class="text-3xl align-top">.74</span>
+                    <span class="text-5xl align-top">.74</span>
                   </div>
                   <div class="text-sm uppercase text-grey tracking-wide">
                     Stocks Volume
